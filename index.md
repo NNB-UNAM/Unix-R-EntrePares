@@ -11,7 +11,7 @@ humantime: "4:00 pm - 7:00 pm"
 startdate: 2018-09-10      
 enddate: 2018-09-11        
 instructor: ["Verónica Jimenez", "Daniela Ledezma", "Delfino García", "Heladia Salgado"] 
-helper: ["Pablo Peña", "Oscar Gabriel Caballero Martínez", "Gabriel Martínez Posadas", "Daniel Bustamante Martínez", "Shirley Alquicira H."]  
+helper: ["Pablo Peña Loredo", "Oscar Gabriel Caballero Martínez", "Gabriel Martínez Posadas", "Daniel Bustamante Martínez", "Shirley Alquicira H."]  
 email: ["contacto.nnb@gmail.com"]    
 collaborative_notes:             # optional: URL de las notas colaborativas del taller, por ejemplo un Etherpad o documento de Google Docs 
 eventbrite:           
