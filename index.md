@@ -14,7 +14,7 @@ instructor: ["Verónica Jimenez", "Daniela Ledezma", "Delfino García", "Heladia
 helper: ["Pablo Peña", "Oscar Gabriel Caballero Martínez", "Gabriel Martínez Posadas", "Daniel Bustamante Martínez", "Shirley Alquicira H."]  
 email: ["contacto.nnb@gmail.com"]    
 collaborative_notes:             # optional: URL de las notas colaborativas del taller, por ejemplo un Etherpad o documento de Google Docs 
-eventbrite:           # optional: clave alfanumérica de registro en Eventbrite, por ejemplo "1234567890AB" (si se está utilizando Eventbrite)
+eventbrite:           
 ---
 
 {% comment %} Ver en los comentarios que siguen las instrucciones sobre cómo editar secciones específicas de esta plantilla de taller {% endcomment %}
@@ -66,7 +66,7 @@ eventbrite:           # optional: clave alfanumérica de registro en Eventbrite,
 {% comment %}
   PÚBLICO
 
-  Participantes de Seminario Entre Pares (http://entrepares.conricyt.mx/), que se han registrado al  evento al _Taller de Introducción a Unix y R aplicado a la BioInformática_.
+  
   {% endcomment %}
 {% if page.carpentry == "swc" %}
   {% include sc/who.html %}
