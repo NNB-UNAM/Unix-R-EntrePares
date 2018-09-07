@@ -187,10 +187,6 @@ ACCESIBILIDAD
 
 {% if page.carpentry == "swc" %}
   {% include sc/schedule.html %}
-{% elsif page.carpentry == "dc" %}
-  {% include dc/schedule.html %}
-{% elsif page.carpentry == "lc" %}
-  {% include lc/schedule.html %}
 {% endif %}
 
 {% comment %}
