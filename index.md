@@ -45,7 +45,7 @@ eventbrite:
 
 
 
-<h1>ENTRE PARES 2018: Introducción a Unix y R aplicado a la Bioinformática</h1>
+<h1>ENTRE PARES (2018): Introducción a Unix y R aplicado a la Bioinformática</h1>
 
 <h2 id="general">Información General</h2>
 
