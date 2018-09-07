@@ -45,7 +45,7 @@ eventbrite:           # optional: clave alfanumérica de registro en Eventbrite,
 
 
 
-<h4>ENTRE PARES 2018: Introducción a Unix y R aplicado a la Bioinformática</h4>
+<h1>ENTRE PARES 2018: Introducción a Unix y R aplicado a la Bioinformática</h1>
 
 <h2 id="general">Información General</h2>
 
@@ -66,7 +66,7 @@ eventbrite:           # optional: clave alfanumérica de registro en Eventbrite,
 {% comment %}
   PÚBLICO
 
-  Explica quién es tu público. (En particular, cuenta a los lectores si el taller esta abierto sólo a personas de una institución o grupo en particular).
+  Participantes de Seminario Entre Pares (http://entrepares.conricyt.mx/), que se han registrado al  evento al _Taller de Introducción a Unix y R aplicado a la BioInformática_.
   {% endcomment %}
 {% if page.carpentry == "swc" %}
   {% include sc/who.html %}
@@ -79,7 +79,10 @@ eventbrite:           # optional: clave alfanumérica de registro en Eventbrite,
 {% comment %}
   UBICACIÓN
 
-  Este bloque muestra la dirección y enlaces a mapas con instrucciones para llegar, si la latitud y longitud fueron definidas. Puedes utilizar http://itouchmap.com/latlong.html para encontrar la lat/long de una dirección. 
+   Complejo Cultural Universitario
+   Benemérita Universidad Autónoma de Puebla
+
+   Puebla, Puebla
 {% endcomment %}
 {% if page.latlng %}
 <p id="where">
