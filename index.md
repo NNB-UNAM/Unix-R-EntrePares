@@ -254,59 +254,10 @@ También es requerido que respeten el
   <div class="row">
     <div class="col-md-4">
       <h4 id="shell-windows">Windows</h4>
-      <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
       <ol>
-        <li>Descarga el <a href="https://git-for-windows.github.io/">instalador</a> de Git para Windows.</li> 
-        <li>Ejecuta el instalador y sigue los siguientes pasos:
-          <ol>
-            {% comment %} Instalación de Git 2.8.2 {% endcomment %}
-            {% comment %} Información {% endcomment %}
-            <li>Click en "Siguiente".</li>
-            {% comment %} Seleccionar Componentes{% endcomment %}
-            <li>Click en "Siguiente".</li>
-            {% comment %} Ajustar tu variable de entorno PATH {% endcomment %}
-            <li>
-              <strong>
-                Dejar seleccionado "Utilizar Git desde la Línea de Comando de Windows" y click en "Siguiente".
-              </strong>
-                Si olvidaste hacer esto, los programas que necesitas para el taller no funcionarán correctamente. 
-		Si esto sucede vuelve a ejecutar el instalador y selecciona la opción adecuada.
-            </li>
-            {% comment %} Eligiendo el ejecutable SSH {% endcomment %}
-            <li>Click en "Siguiente".</li>
-            {% comment %} Configurando los finales de línea {% endcomment %}
-            <li>
-              <strong>
-                Deja seleccionado "Deshabilitar estilo Windows, confirmar estilo Unix para los finales de líneas" y click en "Siguiente".
-              </strong>
-            </li>
-            {% comment %} Configurando el emulador de la terminal para ser utilizado con Git Bash {% endcomment %}
-            <li>
-              <strong>
-                Dejar seleccionado "Utilizar ventana de consola de Windows por defecto" y click en "Next".
-              </strong>
-            </li>
-            {% comment %} Configurando ajustes de rendimiento experimental {% endcomment %}
-            <li>Click en "Instalar".</li>
-            {% comment %} Instalando {% endcomment %}
-            {% comment %} Completando el Asistente de Instalación de Git{% endcomment %}
-            <li>Click en "Finalizar".</li>
-          </ol>
-        </li>
-        <li>
-          Si tu variable de entorno "HOME" no está configurada (o si no sabes qué es esto):
-          <ol>
-            <li>Abre una terminal (Abrir Menú Inicio y escribir <code>cmd</code> y presionar [Enter])</li>
-            <li>
-              Estcribe la siguiente línea en la ventana de la terminal exactamente como sigue:
-              <p><code>setx HOME "%USERPROFILE%"</code></p>
-            </li>
-            <li>Presiona [Enter], deberías ver <code>SUCCESS: Specified value was saved.</code></li>
-            <li>Sal de la terminal escribiendo <code>exit</code> y presionando [Enter]</li>
-          </ol>
-        </li>
+	 <li>Usaremos <a href="http://mobaXterm.mobatek.net">MobaXTerm</a>  como emulador de un ambiente unix</li>
+	 <li>Sigue las instrucciones del tutorial que se te envió.</li>    
       </ol>
-      <p>Esto instalará tanto Git y Bash en el programa Git Bash.</p>
     </div>
     <div class="col-md-4">
       <h4 id="shell-macosx">macOS</h4>
