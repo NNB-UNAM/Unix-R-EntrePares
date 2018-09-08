@@ -129,10 +129,6 @@ También es requerido que respeten el
 
 
 {% comment %}
-ACCESIBILIDAD
-
-
-{% comment %}
   DIRECCIONES DE CORREO ELECTRÓNICO DE CONTACTO
 
   Muestra los correos electrónicos de contacto definidos en el archivo de configuración.
